@@ -55,7 +55,7 @@ import java.util.Set;
  *               所有字符串仅包含小写英文字母。
  *
  */
-
+//Good boy!
 public class Solution6 {
     public List<Integer> peopleIndexes(List<List<String>> favoriteCompanies) {
         int n = favoriteCompanies.size();
